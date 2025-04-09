@@ -131,9 +131,10 @@ Input design :-
 
 **Project Report :-**
 
+[Attendance portal.final.docx](https://github.com/user-attachments/files/19669466/Attendance.portal.final.docx)
 
+## 📌 Future Enhancements
 
-📌 Future Enhancements
 📱 Responsive mobile version using ASP.NET Core + Blazor or Angular.
 
 🔔 Email or SMS notifications for attendance alerts.
@@ -142,12 +143,12 @@ Input design :-
 
 📲 Android/iOS App using Xamarin or MAUI.
 
-🙋‍♂️ Developed By
-Your Name
+## 🙋‍♂️ Developed By
 
-Final Year B.E./B.Tech Student, [Your College Name]
+**__Vikas Abasaheb Bhosale__**
+Final Year B.E./B.Tech Student, [willingdon college, sangli]
 
-[your.email@example.com]
+[vikasbhosale161@gmail.com]
 
-📃 License
+## 📃 License
 This project is open for academic reference and learning purposes.
